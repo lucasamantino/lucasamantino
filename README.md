@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas!  
 
-<!--
-**lucasamantino/lucasamantino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Backend | Focado em APIs com Java & Spring**  
+🎯 **Programação rígida e prática | Buscando novas oportunidades**  
+📍 **Graduando em Sistemas de Informação - Universidade Federal de Viçosa**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas  
+
+- 🔹 **Backend:** Java | Spring Boot  
+- 🔹 **Frontend:** JavaScript | HTML | CSS | Vue.js  
+- 🔹 **Outras Linguagens:** Python | C  
+- 🔹 **Banco de Dados:** MySQL 
+- 🔹 **IDE/Editor:** IntelliJ (backend) | VSCode (frontend)  
+- 🔹 **Versionamento:** Git | GitHub  
+
+---
+
+## 📌 Sobre Mim  
+
+- 🎯 **Autodidata** e sempre em busca de aprimoramento.  
+- 🤝 Gosto de **trabalhar em equipe** e resolver problemas de forma prática.  
+- 🚀 Apaixonado por **Spring Boot** e desenvolvimento de APIs eficientes.  
+- 📈 **Buscando oportunidades** para crescer na área de desenvolvimento.  
+
+---
+
+## 📫 Contato  
+
+📧 **Email:** [lucasam4ntin0@gmail.com](mailto:lucasam4ntin0@gmail.com)  
+
+---
+
+🔹 *Sempre aberto a novos desafios e oportunidades!* 
