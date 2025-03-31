@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou o Lucas!  
 
-💻 **Desenvolvedor Backend | Focado em APIs com Java & Spring**  
-🎯 **Programação rígida e prática | Buscando novas oportunidades**  
-📍 **Graduando em Sistemas de Informação - Universidade Federal de Viçosa**  
+- **Desenvolvedor Backend | Focado em APIs com Java & Spring**  
+- **Programação rígida e prática | Buscando novas oportunidades**  
+- **Graduando em Sistemas de Informação - Universidade Federal de Viçosa**  
 
 ---
 
-## 🚀 Tecnologias & Ferramentas  
+## Tecnologias & Ferramentas  
 
 - 🔹 **Backend:** Java | Spring Boot  
 - 🔹 **Frontend:** JavaScript | HTML | CSS | Vue.js  
@@ -17,18 +17,19 @@
 
 ---
 
-## 📌 Sobre Mim  
+## Sobre Mim  
 
-- 🎯 **Autodidata** e sempre em busca de aprimoramento.  
-- 🤝 Gosto de **trabalhar em equipe** e resolver problemas de forma prática.  
-- 🚀 Apaixonado por **Spring Boot** e desenvolvimento de APIs eficientes.  
-- 📈 **Buscando oportunidades** para crescer na área de desenvolvimento.  
+- **Autodidata** e sempre em busca de aprimoramento.  
+- Gosto de **trabalhar em equipe** e resolver problemas de forma prática.  
+- Apaixonado por **Spring Boot** e desenvolvimento de APIs eficientes.  
+- **Buscando oportunidades** para crescer na área de desenvolvimento.  
 
 ---
 
 ## 📫 Contato  
 
-📧 **Email:** [lucasam4ntin0@gmail.com](mailto:lucasam4ntin0@gmail.com)  
+**Email:** [lucasam4ntin0@gmail.com](mailto:lucasam4ntin0@gmail.com)  
+**Linkedin:** [linkedin.com/in/lucas-amantino/](https://www.linkedin.com/in/lucas-amantino/)
 
 ---
 
